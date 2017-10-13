@@ -1,0 +1,8 @@
+[package]
+name = "rbot"
+version = "0.1.0"
+authors = ["Sergey Shlykov <s.shlykov@office.ngs.ru>"]
+
+[dependencies]
+# basic dependencies from echo server before
+teleborg = { git = "https://github.com/telubeer/teleborg.git" }
